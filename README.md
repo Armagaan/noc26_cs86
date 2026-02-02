@@ -7,6 +7,7 @@ This repository contains the problems covered in the live sessions for the Sprin
 
 ## Course Content
 - Week 1: Introduction to data analytics and Python fundamentals
+- Week 2: Central tendancy and dispersion
 
 ## Recorded sessions <img src="./youtube.png" height=25><br>
 Find the recorded live sessions in this [YouTube playlist](https://www.youtube.com/playlist?list=PL5W8dm-g-BcLtZuzRcRoGH9xg5DoLPKiB)
