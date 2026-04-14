@@ -15,6 +15,8 @@ This repository contains the problems covered in the live sessions for the Sprin
 - Week 7: Linear regression and multiple regression
 - Week 8: Concepts of MLE and Logistic regression
 - Week 9: ROC and Regression Analysis Model Building
+- Week 10: $\chi^2$ test and introduction to cluster analysis
+- Week 11: Clustering analysis
 
 ## Recorded sessions <img src="./youtube.png" height=25><br>
 Find the recorded live sessions in this [YouTube playlist](https://www.youtube.com/playlist?list=PL5W8dm-g-BcLtZuzRcRoGH9xg5DoLPKiB)
